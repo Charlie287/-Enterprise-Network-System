@@ -1,7 +1,7 @@
 # -Enterprise-Network-System
  System model has 2 branches
-VTP
-HSRP
+#VTP
+#HSRP
 Spanning-tree
 DHCP relay
 Port-channel
