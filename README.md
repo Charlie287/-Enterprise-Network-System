@@ -1,14 +1,14 @@
 # -Enterprise-Network-System
  System model has 2 branches
-#VTP
-#HSRP
-Spanning-tree
-DHCP relay
-Port-channel
-EIGRP
-OSPFv3
-QoS
-NAT-PAT
+  VTP
+  HSRP
+  Spanning-tree
+  DHCP relay
+  Port-channel
+  EIGRP
+  OSPFv3
+  QoS
+  NAT-PAT
 
 port security
 DHCP snooping
