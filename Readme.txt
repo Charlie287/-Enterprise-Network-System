@@ -15,7 +15,7 @@ port security
 DHCP snooping
 Access-list
 Firewall
-VPN+IpSec
+VPN+IpSec (GRE Tunnel)
 AAA - Radius Server
 NTP-SysLog
 Wireless Lan Controller
